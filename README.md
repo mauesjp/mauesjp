@@ -1,10 +1,23 @@
-## Olá, Sou o João Pedro 👋
+## Olá, Sou o João Pedro Maues 👋
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 Desenvolvedor de Software formado em **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-end**, utilizando principalmente **C#/.NET** e **Java/Spring**.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauesjp/)
-[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-maues-900389201/)
+<br><br><br>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-maues-900389201/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauesjp/)
+
+  </td>
+
+  <td width="45%" align="center" valign="middle">
+    <img src="./profile/stats.svg" alt="GitHub Stats" width="100%">
+  </td>
+  </tr>
+</table>
 
 ## Tecnologias e Ferramentas 🛠️
 
